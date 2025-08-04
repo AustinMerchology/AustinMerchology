@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my account for working with [Merchology](https://www.merchology.com/). For more details on me and my work, visit my [main profile](https://github.com/AustinPoulson).
+
 <!--
 **AustinMerchology/AustinMerchology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
