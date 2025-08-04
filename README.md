@@ -2,6 +2,9 @@
 
 This is my account for working with [Merchology](https://www.merchology.com/). For more details on me and my work, visit my [main profile](https://github.com/AustinPoulson).
 
+- [Main Profile](https://github.com/AustinPoulson): [![Follow](https://img.shields.io/github/followers/AustinPoulson?label=Follow&style=social)](https://github.com/AustinPoulson)
+- Merchology Profile: [![Follow](https://img.shields.io/github/followers/AustinMerchology?label=Follow&style=social)](https://github.com/AustinMerchology)
+
 <!--
 **AustinMerchology/AustinMerchology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
